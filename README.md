@@ -1,12 +1,12 @@
-# msdos_emulator_rust
-MSDOS Emulator en Rust, con dos funciones basicas echo y exit.
-Crea un nuevo proyecto con cargo:
+# MSDOS Emulator in Rust, with basic echo and exit functions.
 
-cargo new msdos_emulator
+Create a new project with job title:
 
-Sustituye el codigo dentro de src/main.rs
-con el que esta aqui en raiz.
+cargo new msdos_rust
 
-Ejecuta el proyecto con:
+Replace the code inside src/main.rs
+with him who is here at the root.
+
+Execute the project with:
 
 cargo run
